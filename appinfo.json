@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "xwolfoverride@gmail.com",
+    "enableMultiJS": true,
+    "longName": "Divr",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Divr",
+    "uuid": "36544b43-1264-47e5-b82d-433b54b20431",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
